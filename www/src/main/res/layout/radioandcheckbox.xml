@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <RadioGroup
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="12dp"
+            android:id="@+id/radGroup"
+            android:layout_row="0"
+            android:layout_column="0">
+
+        <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="男"
+                android:id="@+id/btnMale"
+                android:layout_gravity="left|center_vertical"/>
+
+        <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="女"
+                android:id="@+id/btnFemale"
+                android:layout_gravity="left|center_vertical"/>
+
+        <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="未知"
+                android:id="@+id/btnUnknow"
+                android:layout_gravity="left|center_vertical"/>
+    </RadioGroup>
+
+    <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="足球"
+            android:id="@+id/chkFootBall"
+            android:layout_row="1"
+            android:layout_column="0"/>
+
+    <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="篮球"
+            android:id="@+id/chkBaskBall"
+            android:layout_row="2"
+            android:layout_column="0"/>
+
+    <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="选择"
+            android:id="@+id/btnOK"
+            android:layout_row="3"
+            android:layout_column="0"/>
+
+</GridLayout>

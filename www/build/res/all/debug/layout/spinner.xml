@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+    <Spinner
+            android:layout_width="108dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/spinner"
+            android:layout_row="0"
+            android:layout_column="0"
+            android:entries="@array/shengfen"
+            />
+
+    <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="选择"
+            android:id="@+id/btnOK"
+            android:layout_row="1"
+            android:layout_column="0"
+            android:layout_below="@+id/spcity"
+            android:layout_alignParentLeft="true"/>
+
+    <Spinner
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/spcity"
+            android:layout_below="@+id/spinner"
+            android:layout_alignRight="@+id/spinner"/>
+</RelativeLayout>

@@ -1,0 +1,37 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1429845980750 1862 3d11ce6e4b42f82647d99053929bf5c4cb60aea2 F:\Program Files\android-studio\Work\7\www\www\build\classes\debug\com\example\www\imageview$PreClick.class
+1429862021359 1091 fdcc09fa33bae7df764afe86f216052d93ae72ac F:\Program Files\android-studio\Work\7\www\www\build\classes\debug\com\example\www\R$id.class
+1429862021359 550 168f2f37300df1f40893ffd3dbad339f714e782e F:\Program Files\android-studio\Work\7\www\www\build\classes\debug\com\example\www\R$layout.class
+1429838961640 523 bfd99fee7064f2580664d33133168b7187a9b8db F:\Program Files\android-studio\Work\7\www\www\build\classes\debug\com\example\www\R$drawable.class
+1429845980750 1671 8d04e2f0c3ca6403672ba0c7a7bab2f47792ad78 F:\Program Files\android-studio\Work\7\www\www\build\classes\debug\com\example\www\imageview$1.class
+1429753618218 858 12c707e896c8d33cd6739921a6da02b9ace1be12 F:\Program Files\android-studio\Work\7\www\www\build\classes\debug\com\example\www\TableAdapter$TableRow.class
+1429753618234 1859 e4bf4940cc5fca0035d94ebb8d356017f69ccd79 F:\Program Files\android-studio\Work\7\www\www\build\classes\debug\com\example\www\TableAdapter.class
+1429845980765 1885 d76ea6b20cf137d91e6a08f8deac915b26f9e176 F:\Program Files\android-studio\Work\7\www\www\build\classes\debug\com\example\www\imageview.class
+1429860442531 1714 24edacbe79ff207b5057be2e16b0e8e40b7f102d F:\Program Files\android-studio\Work\7\www\www\build\classes\debug\com\example\www\radioAndCheckBox$1.class
+1429753618218 2407 cc54c20b53fcecb5d632b75073456ea73d779eed F:\Program Files\android-studio\Work\7\www\www\build\classes\debug\com\example\www\TableAdapter$TableRowView.class
+1429753618218 827 cc0176b3e51758669fd14bb370f01f10cff75865 F:\Program Files\android-studio\Work\7\www\www\build\classes\debug\com\example\www\TableAdapter$TableCell.class
+1429668082781 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 F:\Program Files\android-studio\Work\7\www\www\libs\android-support-v4.jar
+1429760278843 1441 b3d06cb400444afc0ef4d637f643d2d5e654aed6 F:\Program Files\android-studio\Work\7\www\www\build\classes\debug\com\example\www\main$ItemClickEvent.class
+1429860442546 1335 e3c88290faa81bd7a544228bfe9182a7fd74a340 F:\Program Files\android-studio\Work\7\www\www\build\classes\debug\com\example\www\radioAndCheckBox.class
+1429860442515 4110 a7219a6e4f62e1cd67f3780da31b9249f17bde12 F:\Program Files\android-studio\Work\7\www\www\build\classes\debug\com\example\www\main.class
+1429779492875 386 6419ba3bf25bc46922c0bb73c7bdd273d8cf2291 F:\Program Files\android-studio\Work\7\www\www\build\classes\debug\com\example\www\R$array.class
+1429863416843 1495 ed91fb7946e38f14eb87e0b02c9aaabf3a967a6b F:\Program Files\android-studio\Work\7\www\www\build\classes\debug\com\example\www\spinner$1.class
+1429862021375 463 3867e370efffb97e9ebd0a2aa16e68eea94e9025 F:\Program Files\android-studio\Work\7\www\www\build\classes\debug\com\example\www\R$string.class
+1429863498125 2158 22d366d7f9dd8b2e0d4694a3422b7f27d2b6c0bf F:\Program Files\android-studio\Work\7\www\www\build\classes\debug\com\example\www\spinner$2.class
+1429863498140 1999 2ed7483744c66cda56b892efc0f4248859c52bc2 F:\Program Files\android-studio\Work\7\www\www\build\classes\debug\com\example\www\spinner.class
+1429779492890 331 319c5d2e6f8d7156af88493251381bac5f8bdf54 F:\Program Files\android-studio\Work\7\www\www\build\classes\debug\com\example\www\R$attr.class
+1429779492890 452 d057476a0708c10bff9b77c2908551ed75fe3130 F:\Program Files\android-studio\Work\7\www\www\build\classes\debug\com\example\www\R$dimen.class
+1429862021375 422 eac0ce4aa17c0fb8c31f6a4a3fdfb5f7a78fcf6a F:\Program Files\android-studio\Work\7\www\www\build\classes\debug\com\example\www\R$style.class
+1429757744796 865 b822e14fff0216ea38572f9025b3e740efd7bfe4 F:\Program Files\android-studio\Work\7\www\www\build\classes\debug\com\example\www\main$1.class
+1429860442109 1426 d106675d4df5752af90f6445752a7eaa7b105c52 F:\Program Files\android-studio\Work\7\www\www\build\classes\debug\com\example\www\datetime$1.class
+1429862021375 379 6ce4014dae35fcbea5b9a4adbfc5281006bd7116 F:\Program Files\android-studio\Work\7\www\www\build\classes\debug\com\example\www\R$menu.class
+1429863498140 617 ea519e246bae3d827523713139519c8dcbf4d142 F:\Program Files\android-studio\Work\7\www\www\build\classes\debug\com\example\www\spinner$Cell.class
+1429860442250 929 9edf24089af3e73c2df4f21c2068a23087c16714 F:\Program Files\android-studio\Work\7\www\www\build\classes\debug\com\example\www\login.class
+1429668186343 339 c4004d657f4c3b677e4da54e8137960175a9f03e F:\Program Files\android-studio\Work\7\www\www\build\classes\debug\com\example\www\BuildConfig.class
+1429770831453 1497 307fe7755c81d95c29f0c72a7bb45793c3094b6a F:\Program Files\android-studio\Work\7\www\www\build\classes\debug\com\example\www\radioAndCheckBox$2.class
+1429862021390 692 24cc09698d085c3ce4d6975acba1443f615a1dd1 F:\Program Files\android-studio\Work\7\www\www\build\classes\debug\com\example\www\R.class
+1429860442234 1269 81524e3feacd1ca8fba0f01357dab80c12e7082b F:\Program Files\android-studio\Work\7\www\www\build\classes\debug\com\example\www\login$1.class
+1429760278296 899 a90d3e0b7a79c37f4ff72884c01e446959a8522a F:\Program Files\android-studio\Work\7\www\www\build\classes\debug\com\example\www\login$2.class
+1429845980656 1004 479bc965428dfff19d730cd7d544ebbeb2f4b57a F:\Program Files\android-studio\Work\7\www\www\build\classes\debug\com\example\www\datetime.class

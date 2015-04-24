@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" >www
+    </string>
+    <string name="action_settings" >Settings
+    </string>
+    <string name="hello_world" >Hello world!
+    </string>
+    <string-array name="shengfen">
+        <item>安徽</item>
+        <item>山东</item>
+        <item>河南</item>
+    </string-array>
+</resources>
